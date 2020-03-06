@@ -49,6 +49,10 @@ body{
 .testimonials i{
     padding-left: 900px;
 }
+.row {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
 
 
 
